@@ -1,8 +1,10 @@
 # Freezys
 
-A novel treatment for any Gout patient looking for a safe, yet effective treatment. 
+##### A novel treatment for any Gout patient looking for a safe, yet effective treatment. 
 
 ![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/DWG.png)
+
+Gout patients suffer from excessive pain within their MTP joint (big toe joint). Ultimately, this triggers intense swelling and inflammation. 
 
 The device was strategically engineered using the following components: 
 - Arduino Uno
