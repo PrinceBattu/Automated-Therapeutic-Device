@@ -20,7 +20,7 @@ Therefore, you can monitor the condition of your ice pack 24/7 using both the LE
 
 #### The device was strategically engineered using the following components: 
 - Arduino Uno
-- HC-O5 Bluetooth Module
+- HC-05 Bluetooth Module
 - TMP Sensor
 - 1.5V LEDs
 - Breadboard
