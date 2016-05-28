@@ -4,9 +4,11 @@
 
 ![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/DWG.png)
 
+## Problem
+
 Gout patients suffer from excessive pain within their MTP joint (big toe joint). Ultimately, this triggers intense swelling and inflammation. 
 
-The device was strategically engineered using the following components: 
+#### The device was strategically engineered using the following components: 
 - Arduino Uno
 - HC-O5 Bluetooth Module
 - TMP Sensor
@@ -15,7 +17,7 @@ The device was strategically engineered using the following components:
 
 ![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/Render%201.png)
 
-# Design Metrics
+## Design Metrics
 
 This revolutionary product is ideal for applying ammonium nitrate (ice gel packs) to your swollen joint. 
 - The temperature status of the ice is sent to your phone via bluetooth.
