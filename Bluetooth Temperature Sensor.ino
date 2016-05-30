@@ -1,3 +1,6 @@
+// Determines the temperature within the shoe and then send the input reading to the an Android Device.
+// Requires ArduDroid Application 
+
 int sensorPin = 0; // intialize variable which will hold temp. sensor data
 int ledPin = 13; // create the Red LED value
 int state = 0;
