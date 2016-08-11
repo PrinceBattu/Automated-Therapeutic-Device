@@ -14,8 +14,8 @@ Gout patients suffer from excessive pain within their MTP joint (big toe joint).
 
 This revolutionary product is ideal for applying ammonium nitrate (ice gel packs) to your swollen joint. 
 - The temperature status of the ice is sent to your phone via bluetooth.
-- If the ice is below melting point, it will turn on a green LED. 
-- If it is above melting point, it will turn on a green LED. 
+- If the ice is below melting point, a green LED will turn on (signalling that the ice has not melted). 
+- If it is above melting point, a red LED will turn on (signalling that the ice has melted).
 Therefore, you can monitor the condition of your ice pack 24/7 using both the LEDs and the bluetooth functionality, and be notified of when it needs to be changed. 
 
 #### The device was strategically engineered using the following components: 
