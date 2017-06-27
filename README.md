@@ -1,28 +1,28 @@
 # Freezys
 
-##### A novel treatment for any Gout patient looking for a safe, yet effective treatment. 
-
-![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/DWG.png)
+##### A therapeutic device engineered to relieve Gout patients of their discomfort. 
 
 ## Problem
 
-Gout patients suffer from excessive pain within their MTP joint (big toe joint). Ultimately, this triggers intense swelling and inflammation. 
-
-![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/Render%201.png)
+Gout is a type of arthritis which strikes millions of victims across the world. Patients generally suffer from intense swelling and inflammation within the MTP joint of their foot. This ultimately causes the victim to experience extensive pain and discomfort. 
+Unfortunately, there is no definite cure for gout, however the effects can be treated using therapeutic technology. 
 
 ## Design Metrics
 
-This revolutionary product is ideal for applying ammonium nitrate (ice gel packs) to your swollen joint. 
-- The temperature status of the ice is sent to your phone via bluetooth.
-- If the ice is below melting point, a green LED will turn on (signalling that the ice has not melted). 
-- If it is above melting point, a red LED will turn on (signalling that the ice has melted).
-Therefore, you can monitor the condition of your ice pack 24/7 using both the LEDs and the bluetooth functionality, and be notified of when it needs to be changed. 
+This therapeutic device is designed to alleviate the swollen joint using ammonium nitrate gel packs. Most importantly, the condition of the device can be monitored by the user to ensure continuous relief. 
+
+- The temperature of the gel is measured using sensors which are integrated within the device. 
+- If the ice is below melting point, a green LED will turn on (signalling that the gel has not melted). 
+- If it is above melting point, a red LED will turn on (signalling that the gel has melted).
+- The temperature is transmitted to the user's phone using Bluetooth connectivity, which can be viewed using an Android application, known as Ardudroid. 
+
+![Index Alpha](https://github.com/seeamislam/Arduino/blob/master/DWG.png)
 
 #### The device was strategically engineered using the following components: 
 - Arduino Uno
 - HC-05 Bluetooth Module
 - TMP Sensor
 - 1.5V LEDs
-- Breadboard
+
 
 
